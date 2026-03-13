@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "巨人の肩から見下ろして（feat. 琴葉 茜・葵）",
+  "base_artist": "海茶",
+  "createdAt": "2026-03-13T14:27:37.744591Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "巨人の肩から見下ろして (feat. 琴葉 茜・葵)",
+      "artist": "海茶",
+      "has_synced": true,
+      "path": "select/01_巨人の肩から見下ろして_(feat._琴葉_茜・葵)_海茶.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "巨人の肩から見下ろして (feat. 琴葉 茜・葵)",
+      "artist": "海茶",
+      "has_synced": false,
+      "path": "select/pl_01_巨人の肩から見下ろして_(feat._琴葉_茜・葵)_海茶.txt"
+    }
+  ]
+}
